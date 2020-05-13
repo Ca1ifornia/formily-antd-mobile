@@ -1,0 +1,24 @@
+{
+  "projectName": "formily-antd-mobile",
+  "projectOwner": "Ca1ifornia",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Ca1ifornia",
+      "name": "coco",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25984964?s=400&u=972b73abb35bb1187034ecf695a75002f884feba&v=4",
+      "profile": "https://github.com/Ca1ifornia",
+      "contributions": [
+        "design",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 1
+}
