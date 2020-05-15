@@ -5,7 +5,7 @@ import glob from 'glob'
 import * as fs from 'fs-extra'
 
 const transformer = tsImportPluginFactory({
-  libraryName: 'antd-mobile',
+  libraryName: 'antd-mobile-components',
   // style: 'css',
 })
 
